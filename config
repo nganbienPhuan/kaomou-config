@@ -1,7 +1,7 @@
 {
     "server_host" : "kaomoumirror.papwin.com",
     "score_query_reg1" : "<tr(class=\"alt\")?>(.*?)</tr>",
-    "score_query_reg2" : "<td>.*?</td><td>.*?</td><td>.*?</td><td>(.*?)</td><td>.*?</td><td>.*?</td><td>(.*?)</td><td>.*?</td><td>.*?</td><td>.*?</td><td>.*?</td><td>(.*?)</td><td>(.*?)</td>",
+    "score_query_reg2" : "<td>.*?</td><td>.*?</td><td>.*?</td><td>(.*?)</td><td>.*?</td><td>.*?</td><td>(.*?)</td>.*?<td>(.*?)</td><td>(.*?)</td><td>.*?</td><td>.*?</td><td>.*?</td><td>.*?</td>",
     "level_exam_query_reg1" : "<tr(class=\"alt\")?>(.*?)</tr>",
     "level_exam_query_reg2" : "<td>(.*?)</td><td>(.*?)</td><td>(.*?)</td><td>.*?</td><td>(.*?)</td><td>(.*?)</td><td>.*?</td><td>.*?</td><td>.*?</td><td>.*?</td>",
     "exam_query_reg1" : "<tr(class=\"alt\")?>(.*?)</tr>",
